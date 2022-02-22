@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Madara
+- 👋 Hi, I’m R
 - 👀 I’m interested in Futur Technologie & IA
 - 🌱 I’m currently learning a course online for programming
 
